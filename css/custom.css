@@ -1,0 +1,60 @@
+.n{
+	color: red;
+	display: inline;
+
+}
+.ti{
+	font-size: 40px;
+}
+.prs{
+	color: white;
+	font-size: 48;
+	background-color:#339966;
+	padding: 20px;
+	border-radius: 25px;
+}
+input[type=text]:focus{
+	padding: 20px;
+	color: red;
+	font-size: 25px;
+}
+input[type=number]:focus{
+	padding: 20px;
+	color: red;
+	font-size: 25px;
+}
+input[type=date]:focus{
+	padding: 20px;
+	color: red;
+	font-size: 25px;
+}
+.menu{
+	display: inline;
+}
+.menu li {
+	display: inline;
+}
+.menu li a{
+	padding: 20px;
+	font-size: 15px;
+	color:black;
+}
+.list{
+	padding: 20px;
+	background-color: silver;
+}
+.menu li a:hover{
+	background-color: #339966;
+	color: white;
+	text-decoration: none;
+	border-radius: 30px;
+}
+.top{
+	background-color:black;
+}
+.top p{
+	color: white;
+	padding-left: 100px;
+	padding: 20px;
+	margin: 0px;
+}
